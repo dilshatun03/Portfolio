@@ -2,7 +2,7 @@
 
 Table with html tag: https://github.com/dilshatun03/Table-with-html-tag
 
-Facebook acount create with html form tag: https://github.com/dilshatun03/facebook-login-page-with-html-form
+Facebook account create with html form tag: https://github.com/dilshatun03/facebook-login-page-with-html-form
 
 Email signature 1 with html: https://github.com/dilshatun03/Email-signature-1-with-html
 
