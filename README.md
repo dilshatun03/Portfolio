@@ -1,12 +1,12 @@
 # portfolio
-table with html tag: https://dilshatun03.github.io/Table-with-html-tag/
+Table with html tag: https://dilshatun03.github.io/Table-with-html-tag/
 
-project1: https://dilshatun03.github.io/project1/
+Facebook acount create with html form tag: https://github.com/dilshatun03/facebook-login-page-with-html-form
 
-project2: https://dilshatun03.github.io/project2/
+Project1: https://github.com/dilshatun03/project1
 
-project3: https://dilshatun03.github.io/project4/
+Project2: https://github.com/dilshatun03/project2
 
-https://www.figma.com/file/jbXIvQEi4txMpClM8EXiSd/Figma-practice?node-id=1%3A2
+Project3: https://github.com/dilshatun03/project3
 
-https://github.com/dilshatun03/facebook-login-page-with-html
+Figma practice: https://github.com/dilshatun03/Figma-practice
